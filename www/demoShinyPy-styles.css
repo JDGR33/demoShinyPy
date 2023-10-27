@@ -1,0 +1,14 @@
+.card-header {
+    background-color: #20393f;
+}
+
+.card-header ul li{
+    background-color: #335b65;
+    border-radius: 5px;
+    margin: 0 2px;
+}
+
+.card-header ul li a{
+    color: #efab0a;
+    font: bold;
+}
